@@ -16,7 +16,7 @@ Bubble slots: 2
 Slot: 0
 X: 1
 Y: 23
-Text: Take the red pill
+Text: I hate this planet
 AlignH: Right
 AlignV: Bottom
 StartFrame: 7
