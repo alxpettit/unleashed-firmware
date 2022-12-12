@@ -25,7 +25,16 @@ EndFrame: 9
 Slot: 1
 X: 1
 Y: 23
-Text: I can joke better
+Text: Trans rights
+AlignH: Right
+AlignV: Bottom
+StartFrame: 7
+EndFrame: 9
+
+Slot: 1
+X: 1
+Y: 23
+Text: Transhumanism
 AlignH: Right
 AlignV: Bottom
 StartFrame: 7
